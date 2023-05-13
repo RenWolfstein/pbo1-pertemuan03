@@ -1,4 +1,4 @@
-package PercabanganIfElse;
+package Percabangan;
 //If dengan condition false sehingga statement 2 jalan
 public class IfelseFalse {
     public static void main(String[] args) {
