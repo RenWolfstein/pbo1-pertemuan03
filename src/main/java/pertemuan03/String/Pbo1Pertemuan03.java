@@ -5,5 +5,11 @@ public class Pbo1Pertemuan03 {
         String kota = "Yogyakarta";
         
         System.out.println(kota);
+        
+       char[] uniskaChar = { 'U' , 'N' , 'I' , 'S' , 'K' , 'A' };
+       String uniskaString = new String(uniskaChar);
+       System.out.println(uniskaString); 
+       
+       
     }
 }
